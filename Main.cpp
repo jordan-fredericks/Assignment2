@@ -13,11 +13,7 @@ int main()
 {
 	float length = GetLengthFromUser();
 	float width = GetWidthFromUser();
-
-	cout << length << "\n";
-	cout << width << "\n";
-
-	//float area = CalculateArea(length, width);
+	float area = CalculateArea(length, width);
 
 	(void)_getch();
 	return 0;
@@ -39,6 +35,15 @@ float GetWidthFromUser()
 
 	cout << "Please enter the width :";
 	cin >> value;
+
+	return value;
+}
+
+float CalculateArea(float length, float width)
+{
+	int value = 0;
+
+	value = length * width;
 
 	return value;
 }
