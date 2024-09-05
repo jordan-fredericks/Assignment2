@@ -14,6 +14,7 @@ int main()
 	float length = GetLengthFromUser();
 	float width = GetWidthFromUser();
 	float area = CalculateArea(length, width);
+	DisplayArea(area);
 
 	(void)_getch();
 	return 0;
@@ -46,4 +47,9 @@ float CalculateArea(float length, float width)
 	value = length * width;
 
 	return value;
+}
+
+void DisplayArea(float area)
+{
+	cout << "The area of your rectangle is " << area << ".";
 }

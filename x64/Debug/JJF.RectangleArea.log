@@ -1,4 +1,6 @@
 ﻿  Main.cpp
-C:\Users\500172971\source\repos\JJF.RectangleArea\JJF.RectangleArea\Main.cpp(33,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
-C:\Users\500172971\source\repos\JJF.RectangleArea\JJF.RectangleArea\Main.cpp(43,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\500172971\source\repos\JJF.RectangleArea\JJF.RectangleArea\Main.cpp(30,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\500172971\source\repos\JJF.RectangleArea\JJF.RectangleArea\Main.cpp(40,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\500172971\source\repos\JJF.RectangleArea\JJF.RectangleArea\Main.cpp(47,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\500172971\source\repos\JJF.RectangleArea\JJF.RectangleArea\Main.cpp(49,9): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
   JJF.RectangleArea.vcxproj -> C:\Users\500172971\source\repos\JJF.RectangleArea\x64\Debug\JJF.RectangleArea.exe
